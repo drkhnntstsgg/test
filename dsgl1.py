@@ -1,4 +1,4 @@
-course_id = input("Хичээлийн код: ")
+course_id = input("Хичээл: ")
 course_name = input("Хичээлийн нэр: ")
 credit = input("Хичээлийн кредит: ")
 
